@@ -56,7 +56,7 @@ const Header = () => {
     <Box className={classes.typedContainer}>
             <Box component="nav"> 
       <appbar className={classes.player}>
-      <audio controls>
+      <audio controls="controls" autoplay="autoplay">
   <source src="http://paineldj6.com.br:8632/stream" type="audio/aac" />  
 Seu navegador não suporta este player
 </audio>
