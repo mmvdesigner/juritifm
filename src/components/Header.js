@@ -83,7 +83,7 @@ const Header = () => {
       <Box className={classes.bottomNavContainer}>
       <Typography className={classes.copy} variant="span">
         <box className={classes.copy} variant="span" >
-        <p>© 2022 Rádio Juriti Fm 98,7 mhz. Todos os direitos reservados</p>
+        <p>© 2022 Rádio Juriti Fm 98,7 mhz. Rua Manoel Odelio da Silveira - Juritianha - Acaraú/CE - Brasil</p>
         <span className="classes.footer">
         By: <a href="https://mdsolucoestecnologicas.com.br/"  target="_blank" className={classes.footer}>MD Soluções Tecnológicas</a> -> 
           <a href="https://www.mvdevfullstack.me/"  target="_blank" className={classes.footer}>Messias Vasconcelos</a>
